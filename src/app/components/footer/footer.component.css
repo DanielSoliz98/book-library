@@ -22,22 +22,6 @@ p {
   cursor: pointer;
 }
 
-.btn2 {
-  background-image: url("https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png");
-  background-size: 30px 30px;
-  background-repeat: no-repeat;
-}
-.btn3 {
-  width: 35px;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/1200px-New_Logo_Gmail.svg.png");
-  background-size: 35px 30px;
-
-}
-.btn4 {
-  background-image: url("http://t2marketinginternational.com/wp-content/uploads/2018/06/Github-Logo.png");
-  background-size: 30px 30px;
-}
-
 @media( max-width: 730px ) {
   .footerContainer {
     display: block;
